@@ -3,7 +3,7 @@ package Level1;
 import java.util.HashMap;
 import java.util.Map;
 
-public class RepeatedCharsUsingMapExample2 {
+public class RepeatedCharsUsingMapUsingEntrySet {
 
     public static void main(String args[]) {
         // find repeated letters prog
