@@ -1,6 +1,6 @@
 package Level1;
 
-public class RepeatedCharsUsingTwoForLoops {
+public class A9RepeatedCharsUsingTwoForLoops {
     public static void main(String[] args) {
         String input = "Welcome";    //Input String
         char[] chars = input.toCharArray();  //Split the word from String

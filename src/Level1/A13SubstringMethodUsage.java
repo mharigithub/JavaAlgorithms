@@ -1,7 +1,7 @@
 package Level1;
 
 import java.lang.*;
- public class SubstringMethodUsage {
+ public class A13SubstringMethodUsage {
  public static void main(String[] args)
  {
    String main_string = "Python 3.0";

@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.Scanner;
 
-public class Palindrome {
+public class A1dPalindrome {
 
 	
 

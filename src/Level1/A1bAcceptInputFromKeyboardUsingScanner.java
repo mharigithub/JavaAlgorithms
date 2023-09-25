@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.Scanner;
 
-public class AcceptInputFromKeyboardUsingScanner {
+public class A1bAcceptInputFromKeyboardUsingScanner {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("enter input");

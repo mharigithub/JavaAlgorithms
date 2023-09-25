@@ -1,6 +1,6 @@
 package Level1;
 
-public class NumberReverse {
+public class A5NumberReverse {
     public static void main(String[] args) {
         int n = 1234, reversedNum = 0;
         while (n != 0) {

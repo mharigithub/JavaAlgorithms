@@ -1,6 +1,6 @@
 package Level1;
 
-public class Fibonacci {
+public class A3Fibonacci {
 
   public static void main(String[] args) {
     int n1 = 0, n2 = 1, n3, numbers=5;

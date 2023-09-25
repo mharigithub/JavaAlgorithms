@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class RepeatedCharsUsingMapUsingKeySet {
+public class A8RepeatedCharsUsingMapUsingKeySet {
     public static void main(String[] args) {
         String str = "java";
         //initially below hashmap is empty

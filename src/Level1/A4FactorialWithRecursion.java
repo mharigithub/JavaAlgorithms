@@ -1,10 +1,10 @@
 package Level1;
 
-public class FactorialWithRecursion {
+public class A4FactorialWithRecursion {
 
     public static void main(String args[]) {
-        FactorialWithRecursion factorialWithRecursion = new FactorialWithRecursion();
-        System.out.println(factorialWithRecursion.fact(5));
+        A4FactorialWithRecursion a4FactorialWithRecursion = new A4FactorialWithRecursion();
+        System.out.println(a4FactorialWithRecursion.fact(5));
     }
 
     public int fact(int x) {

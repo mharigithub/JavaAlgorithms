@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.*;
 
-public class RepeatedWordsUsingSet {
+public class A11RepeatedWordsUsingSet {
 //@SuppressWarnings("unchecked")
 public static void main(String[] args) {
 
